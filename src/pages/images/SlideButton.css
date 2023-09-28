@@ -1,0 +1,6 @@
+#login-form {
+    position: absolute;
+    left: 50%; /* Moves the element 50% to the right of the container */
+    transform: translateX(-50%); /* Centers the element horizontally */
+  }
+  
